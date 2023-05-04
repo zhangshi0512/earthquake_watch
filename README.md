@@ -1,3 +1,23 @@
+# Earthquake Watch
+![earthquake_app_snapshot](https://user-images.githubusercontent.com/100053535/236111979-37088054-c5c2-42a9-afdb-07251ab7fefb.JPG)
+
+https://earthquake-watch-online.netlify.app/
+
+This project is completed under instructions from Season 2 of Mini Beginner's Crash Course to Elasticsearch and Kibana:
+https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-app-nodejs-react-with-elasticsearch-5347
+
+It is a full stack app (Node.js and React) with Elasticsearch allows users to search earthquake results by the type of earthquake, magnitude level, location, date range, and sort the result by magnitude.
+
+In this project, I learned:
+1. Build a server using Node.js with Express
+2. Create an Elastic Cloud deployment
+3. Securely connect Node.js server to Elastic Cloud
+4. Plan for efficient data storage and search performance in Elasticsearch
+5. Set up Elasticsearch for data transformation and data ingestion
+6. Set up the Node.js server to retrieve API data and send the data to Elasticsearch
+7. Build the client side of the app with React
+8. Set up Node.js server to handle Elasticsearch requests
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
